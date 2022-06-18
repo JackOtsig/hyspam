@@ -80,7 +80,7 @@ def write_to_json(jsdict):
     outfile.close()
 
 def main():
-    os.chdir(r'C:\Users\jacko\Documents\python\sbads')
+    os.chdir(r'folder')
     mod = input('mod?: ')
     iterator = 1
     print('- to select mod = to run mod')
